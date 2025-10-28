@@ -24,6 +24,9 @@ while True:
     print("Server > ",s.recv(1024).decode())
 ```
 
+
+
+
 ### Server
 ```python
 import socket
